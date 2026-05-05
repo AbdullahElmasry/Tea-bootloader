@@ -1,0 +1,20 @@
+# Build outputs
+*.bin
+*.o
+*.img
+*.iso
+
+# Temporary / logs
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Backup files
+*~
