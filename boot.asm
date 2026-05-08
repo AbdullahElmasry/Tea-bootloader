@@ -1,4 +1,4 @@
-bits 32
+bits 16
 org 0x7C00
 
 start:
